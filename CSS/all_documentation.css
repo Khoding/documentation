@@ -1,0 +1,48 @@
+body {
+	margin:0px;
+	padding:0px;
+	font-family:Arial, Sans-Serif;
+	color: #DCDCCC;
+	background: #202020;
+}
+.sommaire {
+	color: #46AED6;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.titre, .copyright {
+	display:block;
+	border-top:2px solid DimGray;
+}
+
+#exemple {
+	background: DimGray;
+}
+
+#sommaire {
+	float: right;
+	width: 20%;
+	position: fixed;
+	height: 100%;
+}
+
+#contenu {
+	padding-left: 20%;
+	overflow:none;
+}
+
+#ceffLogo {
+	background: white;
+	padding-right: 100%; 
+}
+
+dt {
+	font-weight: bold;
+	color: #9bccb6;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0px;
+}
